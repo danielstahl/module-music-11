@@ -1,0 +1,9 @@
+/Users/danielstahl/Documents/Projects/py-soundmining-tools/dist/soundmining_tools-0.0.1-py3-none-any.whl
+numpy
+python-osc
+ipycanvas
+matplotlib
+jupyterlab
+ipywidgets
+librosa
+ipykernel
